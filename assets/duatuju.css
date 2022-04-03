@@ -1,0 +1,89 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+body { 
+    margin-top: -65px!important; 
+}
+
+.masthead {
+    position: relative!important;
+    width: 100%!important;
+    height: auto!important;
+    min-height: 50rem!important;
+    padding: 15rem 0!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-attachment: scroll!important;
+    background-size: cover!important;
+    
+}
+
+.mastheadid{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url('image/conso4.jpeg');  
+}
+
+.mastheadab {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url('image/conso1.jpeg');    
+}
+.mastheadcu {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url('image/conso3.jpeg');    
+}
+
+.mastheadheroes {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url('image/conso6.jpeg');
+    
+}
+
+.mastheadartefakt {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url('image/conso7.jpeg');    
+}
+
+.mastheadampersound {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url('image/conso8.jpeg');
+    
+}
+
+.about{
+  padding-top: 5rem;
+}
+
+#projects{
+  padding-top: 10rem;
+}
+
+.carousel{
+  margin-top: 10rem;
+}
+
+
+footer { 
+    margin-bottom: -65px!important; 
+}
+
+#sduldd{
+  background-color: transparent;
+}
+
+a {
+  color: black;
+  text-decoration: none; /* no underline */
+}
+
+.active{
+  text-decoration:underline;
+}
+
+.portItem{
+    margin-bottom: 5rem;
+}
